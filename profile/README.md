@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://upty.io">Website</a> ·
   <a href="https://upty.io/docs">Documentation</a> ·
-  <a href="https://upty.io/docs/api/reference">API reference</a> ·
+  <a href="https://upty.io/docs/api">API reference</a> ·
   <a href="https://upty.io/docs/mcp">MCP guides</a>
 </p>
 
@@ -26,7 +26,7 @@ Upty brings availability checks, host metrics, alerts and public status pages in
 | --- | --- |
 | **[Upty platform](https://upty.io)** | Monitor services, investigate issues and share status updates. |
 | **[Claude Code plugin](https://github.com/uptyio/mcp)** | Connect your assistant through OAuth and work with your monitoring workspace. |
-| **[REST API](https://upty.io/docs/api/reference)** | Build integrations with bearer API keys, ownership checks and plan limits. |
+| **[REST API](https://upty.io/docs/api)** | Build integrations with bearer API keys, ownership checks and plan limits. |
 | **[Documentation](https://upty.io/docs)** | Setup guides, monitoring concepts, API reference and MCP workflows. |
 
 ## Quick start: Claude Code
